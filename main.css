@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Fresca&family=Lato:wght@400;700&display=swap');
+
+body {
+    font-family: 'Lato', sans-serif;
+    background: #A49D9D;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    color: #3A67AB;
+    font-family: 'Fresca', sans-serif;
+}
